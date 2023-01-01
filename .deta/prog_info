@@ -1,0 +1,1 @@
+{"id":"444e6af6-a716-4243-be83-28a50ad2dd85","space":45915,"runtime":"python3.9","name":"AmoraApi","path":"0ac63e","project":"b0da38vo","account":"144798365827","region":"us-east-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"off","cron":""}
