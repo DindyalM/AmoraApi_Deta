@@ -2,13 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from fastapi import FastAPI
 
-
-
-
-
 app = FastAPI()
-
-
 @app.get("/")
 def read_root():
     url='https://www.fashionnova.com/collections/dresses'
